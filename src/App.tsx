@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         Partiu Mais uma nlw
         </a>
       </header>
     </div>
